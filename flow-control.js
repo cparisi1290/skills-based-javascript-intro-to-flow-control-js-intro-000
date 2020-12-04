@@ -34,3 +34,4 @@ function switchAge(age) {
       return "You have an age"
   }
 }
+console.log(15)
